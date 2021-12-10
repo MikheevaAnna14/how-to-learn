@@ -1,4 +1,4 @@
-.link-hover:hover {
+.link-hov:hover {
   opacity: 0.5;
   transition-property: color;
   transition: ease-in-out 1s;
