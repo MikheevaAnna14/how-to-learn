@@ -1,3 +1,7 @@
+.link-hov {
+
+}
+
 .link-hov:hover {
   opacity: 0.5;
   transition-property: color;
